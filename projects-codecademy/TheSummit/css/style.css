@@ -1,0 +1,40 @@
+a:link {
+	color: #2176FF;
+}
+
+a:visited {
+	color: rgb(66, 11, 22);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+a:active {
+	color: #695e96;
+	text-decoration: none;
+}
+
+.banner-text h1 {
+	line-height: 1.5;
+}
+
+.btn {
+	background-color: #fff;
+	padding: 20px 30px;
+	border-radius: 10px;
+	box-shadow: 1px 4px rgb(245, 244, 244);
+}
+
+.btn:hover {
+	cursor: pointer;
+	font-weight: 600;
+	text-decoration: none;
+}
+
+.nav-link:hover{
+	text-decoration: none;
+	font-weight: 600;
+}
